@@ -1,0 +1,20 @@
+body{
+    background-color: #121212;
+    color: white;
+    text-align: center;
+}
+
+header{
+    background-color: #202020;
+}
+
+button{
+    border: none;
+    background-color: #202020;
+    color:#98969A;
+    padding: 20px 25px;
+    cursor: pointer;
+}
+button:hover{
+    color:white;
+}
