@@ -1,20 +1,28 @@
-body{
-    background-color: #121212;
-    color: white;
-    text-align: center;
-}
+body { background-color: #E11364;}
 
-header{
-    background-color: #202020;
-}
+h1 {background-color: #B10F57;
+color: #F2F2F3;
+border-right: 3px solid #F2F2F3;
+border-left: 3px solid #F2F2F3;
+text-align: center;}
 
-button{
-    border: none;
-    background-color: #202020;
-    color:#98969A;
-    padding: 20px 25px;
-    cursor: pointer;
-}
-button:hover{
-    color:white;
-}
+h2 {background-color: #B10F57;
+color: #F2F2F3;}
+
+h3 {background-color: #F2F2F3;
+color: #9C1042;
+border-bottom: 2px dotted #9C1042;
+text-align: right;}
+
+.MarioKart {text-align: center;}
+
+.MortalKombat { width: 1089px;
+    height: 613px;
+margin-left: 160px;
+margin-right: 250px;}
+
+
+
+
+
+
