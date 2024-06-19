@@ -14,7 +14,9 @@ color: #9C1042;
 border-bottom: 2px dotted #9C1042;
 text-align: right;}
 
-.MarioKart {text-align: center;}
+.MarioKart {text-align: center;
+    margin-left: 160px;
+    margin-right: 250px;}
 
 .MortalKombat { width: 1089px;
     height: 613px;
