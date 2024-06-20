@@ -1,13 +1,18 @@
-body { background-color: #E11364;}
+body { background-color: #E11364;
+text-align: center;}
 
 h1 {background-color: #B10F57;
 color: #F2F2F3;
-border-right: 3px solid #F2F2F3;
-border-left: 3px solid #F2F2F3;
-text-align: center;}
+border-right: 5px solid #F2F2F3;
+border-left: 5px solid #F2F2F3;
+text-align: center;
+padding: 5px 5px;
+font-size: 50px;
+margin: 20px 200px;}
 
 h2 {background-color: #B10F57;
-color: #F2F2F3;}
+color: #F2F2F3;
+margin: 20px 200px;}
 
 h3 {background-color: #F2F2F3;
 color: #9C1042;
@@ -22,6 +27,39 @@ text-align: right;}
     height: 613px;
 margin-left: 160px;
 margin-right: 250px;}
+
+section{
+    margin: 25px 200px;
+    background-color: white;
+    padding: 15px 10px;
+    text-align: left;
+    border-radius: 10px;
+    display: flexbox;
+}
+
+h2{
+    text-align: justify;
+}
+
+.boton{
+    text-align: center;
+    color: white;
+    justify-content: center;
+    margin: 0px 700px;
+    border-radius: 10px;
+    background-color: green;
+    padding: 10px 25px;
+    border: none;}
+
+    button:hover{
+        background-color: #9C1042;
+    }
+
+.fondofooter{
+    background-color: #E96093;
+    padding: 5px 5px;
+    margin: 40px 170px;
+    border-radius: 10px;}
 
 
 
