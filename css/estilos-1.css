@@ -14,53 +14,51 @@ h2 {background-color: #B10F57;
 color: #F2F2F3;
 margin: 20px 200px;}
 
+h2{ text-align: justify;}
+
 h3 {background-color: #F2F2F3;
 color: #9C1042;
 border-bottom: 2px dotted #9C1042;
 text-align: right;}
 
-.MarioKart {text-align: center;
-    margin-left: 160px;
-    margin-right: 250px;}
+section{ margin: 25px 200px;
+    background-color: white; }
 
-.MortalKombat { width: 1089px;
-    height: 613px;
-margin-left: 160px;
-margin-right: 250px;}
-
-section{
-    margin: 25px 200px;
-    background-color: white;
-    padding: 15px 10px;
+section { padding: 15px 10px;
     text-align: left;
-    border-radius: 10px;
-    display: flexbox;
-}
+    border-radius: 10px; }
 
-h2{
-    text-align: justify;
-}
-
-.boton{
-    text-align: center;
-    color: white;
-    justify-content: center;
-    margin: 0px 700px;
+.boton{color: white;
+    justify-content: center; 
+    margin-left: 45%; 
+    margin-right: 50%; 
     border-radius: 10px;
     background-color: green;
-    padding: 10px 25px;
+    padding: 10px 15px;
     border: none;
-    text-decoration: none;}
+    text-decoration: none;
+    font-weight: bold;}
 
-    button:hover{
-        background-color: #9C1042;
-    }
+.boton {font-family: Arial, Helvetica, sans-serif;}
+
+button:hover{ background-color: #9C1042;}
 
 .fondofooter{
     background-color: #E96093;
     padding: 5px 5px;
     margin: 40px 170px;
     border-radius: 10px;}
+figure {display: flex;
+    justify-content: center;}
+
+.MarioKart {max-width: 100%;
+    height: auto;}
+
+.MortalKombat { width: 1089px;
+    max-width: 100%;
+    height: auto;}
+
+
 
 
 
