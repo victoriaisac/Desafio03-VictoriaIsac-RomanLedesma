@@ -11,31 +11,32 @@ header{
 }
 
 button{
+    border-radius: 5px;
     border: none;
-    background-color: #202020;
-    color:#98969A;
+    background-color: black;
+    color:#ffffff;
     padding: 20px 25px;
+    margin-bottom: 10px;
     cursor: pointer;
+    transition: .5s;
 }
 button:hover{
-    color:white;
+    color:green;
 }
-
-.fuenteh1 {
-    font-family: "Reem Kufi Ink", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-} 
 
 h1{
     text-align: initial ;
     display: flex;
-}
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}  
+
 
 .icono{width: 50px;
     height: 50px;
     display: flex;
-    margin-right: 15px;
+    margin-right: 10px;
 }
 
 .imagenes{
@@ -52,13 +53,20 @@ figure{
 }
 
 div{
-    background-color: black;
+    background-color: #202020;
     margin-left: 50px;
     margin-right: 50px;
     border: solid red 5px;
-margin-top: 15px;}
+    margin-top: 15px;}
 
 .divh2{
-    background-color: #98969A;
+    background-color: #202020;
     border: solid, red, 5px;
+}
+
+.letrah3 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
