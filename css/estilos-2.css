@@ -5,7 +5,9 @@ body{
 }
 
 header{
-    background-color: #202020;
+    background-color:none;
+    display: flex;
+    align-items: center;
 }
 
 button{
@@ -17,4 +19,38 @@ button{
 }
 button:hover{
     color:white;
+}
+
+.fuenteh1 {
+    font-family: "Reem Kufi Ink", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+h1{
+    text-align: initial ;
+    display: flex;
+}
+
+.icono{width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.imagenes{
+    width: 800px;
+    height: 500px;
+    border: solid,red 15px;
+}
+
+div{
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: solid red 5px;
+margin-top: 15px;}
+
+.divh2{
+    background-color: #98969A;
+    border: solid, red, 5px;
 }
