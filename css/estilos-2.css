@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Teko:wght@300..700&display=swap');
 body{
     background-color: #121212;
     color: white;
@@ -7,8 +8,7 @@ body{
 header{
     background-color:none;
     display: flex;
-    align-items: center;
-}
+    align-items: center;}
 
 button{
     border-radius: 5px;
@@ -18,11 +18,10 @@ button{
     padding: 20px 25px;
     margin-bottom: 10px;
     cursor: pointer;
-    transition: .5s;
-}
+    transition: .5s;}
+
 button:hover{
-    color:green;
-}
+    color:green;}
 
 h1{
     text-align: initial ;
@@ -30,56 +29,60 @@ h1{
     font-family: "Silkscreen", sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 40px;
-}  
+    font-size: 40px;}  
 
 
 .icono{width: 50px;
     height: 50px;
     display: flex;
-    margin-right: 10px;
-}
+    margin-right: 10px;}
 
-.imagenes{
+.MarioKart,.MortalKombat {
     width: 800px;
     height: 500px;
     border: solid,red 15px;
     max-width: 100%;
-    height: auto;
-}
+    height: auto;}
 
 figure{
     display: flex;
-    justify-content: center;
-}
+    justify-content: center;}
 
-div{
+article {
     background-color: #202020;
     margin-left: 50px;
     margin-right: 50px;
     border: solid red 5px;
     margin-top: 15px;}
 
-.divh2{
-    background-color: #202020;
-    border: solid, red, 5px;
-}
+ 
 
-.h3{
-    font-family: "Yantramanav", sans-serif;
-    font-weight: 900;
-    font-style: normal;
-    font-size: 25px;
-}  
-
-.h2{
-    font-family: "Play", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-}
-
-p{
-    font-family: "Lato", sans-serif;
+h3{font-family: "Holtwood One SC", serif;
     font-weight: 400;
     font-style: normal;
-}
+font-size: 40px;}  
+  
+
+h2{ font-family: "Teko", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 45px;}
+
+h2{background-color: #202020;
+    border: solid, red, 5px;}
+
+p{  font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+     }
+p {margin-left: 100px;
+margin-right: 100px;
+text-align: center;}
+
+.fondofooter{background-color: #202020;
+    border: solid, red, 5px;
+    padding: 5px 5px;
+    margin: 40px 200px;}
+.link {text-decoration-line: none;}
