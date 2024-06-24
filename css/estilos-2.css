@@ -80,7 +80,8 @@ text-align: center;}
     border: solid, red, 5px;
     padding: 5px 5px;
     margin: 40px 200px;}
-.link {text-decoration-line: none;}
+
+a {text-decoration: none;}
 
 
 /* paginas alternas */
