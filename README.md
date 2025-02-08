@@ -7,7 +7,7 @@ Pequeña pagina informativa de videojuegos, creada con HTML y CSS
 - **Nombre:** Victoria Isac, Roman Ledesma  
 
 ## 🌐 Redes Sociales   
-- 🔗 **LinkedIn:** [Victoria Isac](www.linkedin.com/in/victoriaisac)  
+- 🔗 **LinkedIn:** [victoriaisac](www.linkedin.com/in/victoriaisac)  
 
 
 ## 📧 Contacto  
